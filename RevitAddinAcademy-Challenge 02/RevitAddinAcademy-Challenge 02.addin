@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RevitAddinAcademy-Challenge 02</Text>
+    <Description>Some description for RevitAddinAcademy-Challenge 02</Description>
+    <Assembly>RevitAddinAcademy-Challenge 02.dll</Assembly>
+    <FullClassName>RevitAddinAcademy_Challenge_02.Command</FullClassName>
+    <ClientId>3f139ef2-8593-4874-a557-8625b51b1dad</ClientId>
+    <VendorId>Mon And Associates Inc.</VendorId>
+    <VendorDescription>Paul Mon</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RevitAddinAcademy-Challenge 02</Name>
+    <Assembly>RevitAddinAcademy-Challenge 02.dll</Assembly>
+    <FullClassName>RevitAddinAcademy_Challenge_02.App</FullClassName>
+    <ClientId>6ad24449-e5ef-47e4-bcce-f50108598458</ClientId>
+    <VendorId>Mon And Associates Inc.</VendorId>
+    <VendorDescription>Paul Mon</VendorDescription>
+  </AddIn>
+</RevitAddIns>
